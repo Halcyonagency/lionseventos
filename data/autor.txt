@@ -1,0 +1,35 @@
+
+                            
+/* TEAM */
+
+                            
+Name: Halcyon Agency - Web Design
+
+                            
+Site: http://www.hagency.com.ar
+
+                            
+Location: Buenos Aires, Argentina.
+
+                         
+                 
+                        [...]
+						
+
+	                    
+
+                            
+/* SITE */
+
+                            
+Last update: 2015/01/05
+
+                            
+Standards: HTML5, CSS3
+
+                            
+Components: Modernizr, jQuery, Bootstrap, Animate.css, Flexslider.css, Waypoints.js
+
+                            
+
+   
